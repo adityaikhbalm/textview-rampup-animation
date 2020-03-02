@@ -1,7 +1,8 @@
 # TextView Ramp Up Animation
 
 
-Custom TextView that show text in animation
+Custom TextView that show text in animation.
+This library got inspired by [DisplayTextView](https://github.com/ronpattern/DisplayTextView) and change it as little as I want
 
 
 ## Download
@@ -44,7 +45,7 @@ dependencies {
         android:paddingTop="100dp"/>
 ```        
         
-**In main Activy or Fragment :**  
+**In your Activity or Fragment :**  
 
 ```java
 
@@ -88,4 +89,4 @@ Don't forget set up top padding to get this effect
         android:paddingTop="100dp"/>
 ```       
 
-![picture alt](https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif)
+<img align="center" src="https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif">
