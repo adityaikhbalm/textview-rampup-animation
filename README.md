@@ -89,4 +89,6 @@ Don't forget set up top padding to get this effect
         android:paddingTop="100dp"/>
 ```       
 
-<img align="center" src="https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif">
+<p align="center">
+<img src="https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif" width="200">
+</p>
