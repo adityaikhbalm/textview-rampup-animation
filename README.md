@@ -67,7 +67,7 @@ textAnimate.startAnimation();
        
 ### Attribute description
 
-**Animation Duration :** size of characters during animation (default = 500)
+**Animation Duration :** You can specify the duration of an animation (the default length is 500 ms).
 
 ## Examples
 
