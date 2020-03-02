@@ -23,7 +23,7 @@ Include the following dependency in your build.gradle file :
 ```java
 dependencies {
     ...
-    implementation 'com.github.adityaikhbalm:textview-rampup-animation:v1.0.0'
+    implementation 'com.github.adityaikhbalm:textview-rampup-animation:1.0'
 }
 ```
 
