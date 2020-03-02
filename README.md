@@ -90,5 +90,5 @@ Don't forget set up top padding to get this effect
 ```       
 
 <p align="center">
-<img src="https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif" width="200">
+<img src="https://github.com/adityaikhbalm/textview-rampup-animation/blob/master/textviewanimation.gif" width="300">
 </p>
