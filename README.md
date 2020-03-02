@@ -2,7 +2,7 @@
 
 
 Custom TextView that show text in animation.
-This library got inspired by [DisplayTextView](https://github.com/ronpattern/DisplayTextView) and change it as little as I want
+This library got inspired by [DisplayTextView](https://github.com/ronpattern/DisplayTextView)
 
 
 ## Download
